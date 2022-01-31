@@ -1,3 +1,7 @@
+Acceder al código desde Google Colab para poder ver de manera adecuada todas las visualizaciones y poder interactuar con ellas.
+Link de acceso: https://colab.research.google.com/drive/17kuc85L9f7uhK0KJUgE9tuNuewoqWKgg?usp=sharing
+
+
 # Proyecto - PROCESO ESTADÍSTICO “MATRICULA DE EDUCACIÓN PREESCOLAR, BÁSICA Y MEDIA”
 Proyecto por el cual el Ministerio de Educación Nacional de Colombia quiere contar con información estadística oportuna y confiable de la población atendida en el sector oficial y no oficial en los niveles educativos de preescolar, básica (primaria y secundaria) y media; información fundamental para la formulación, implementación y seguimiento de políticas públicas y para la toma de decisiones a nivel nacional y regional.
 
